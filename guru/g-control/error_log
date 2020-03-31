@@ -1,0 +1,20 @@
+[02-Aug-2018 09:48:54 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/demolapa/pps.demolapakcode.net/guru/g-control/action.php on line 16
+[14-Aug-2018 13:30:31 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/demolapa/pps.demolapakcode.net/guru/g-control/action.php on line 31
+[28-Aug-2018 10:08:07 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/demolapa/pps.demolapakcode.net/guru/g-control/action.php on line 16
+[09-Sep-2018 16:18:58 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/demolapa/pps.demolapakcode.net/guru/g-control/action.php on line 16
+[11-Sep-2018 13:46:32 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/demolapa/pps.demolapakcode.net/guru/g-control/action.php on line 31
+[11-Sep-2018 20:49:06 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/demolapa/pps.demolapakcode.net/guru/g-control/action.php on line 16
+[18-Sep-2018 08:59:57 Asia/Jakarta] PHP Notice:  Undefined index: pilihben in /home/demolapa/pps.demolapakcode.net/guru/g-control/control.php on line 44
+[21-Sep-2018 20:41:54 Asia/Jakarta] PHP Notice:  Undefined index: c_guru in /home/demolapa/pps.demolapakcode.net/guru/g-control/control.php on line 58
+[21-Sep-2018 20:41:55 Asia/Jakarta] PHP Notice:  Undefined index: pesan in /home/demolapa/pps.demolapakcode.net/guru/g-control/control.php on line 58
+[24-Sep-2018 12:57:31 Asia/Jakarta] PHP Notice:  Undefined index: pilihben in /home/demolapa/pps.demolapakcode.net/guru/g-control/control.php on line 44
+[24-Sep-2018 13:00:29 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/demolapa/pps.demolapakcode.net/guru/g-control/action.php on line 16
+[25-Sep-2018 11:17:47 Asia/Jakarta] PHP Notice:  Undefined index: pilihben in /home/demolapa/pps.demolapakcode.net/guru/g-control/control.php on line 44
+[01-Oct-2018 08:56:22 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/demolapa/pps.demolapakcode.net/guru/g-control/action.php on line 16
+[03-Nov-2018 12:58:55 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/demolapa/pps.demolapakcode.net/guru/g-control/action.php on line 16
+[23-Nov-2018 16:44:09 Asia/Jakarta] PHP Notice:  Undefined index: pilihben in /home/demolapa/pps.demolapakcode.net/guru/g-control/control.php on line 44
+[12-Jan-2019 00:49:35 Asia/Jakarta] PHP Notice:  Undefined index: pilihben in /home/demolapa/pps.demolapakcode.net/guru/g-control/control.php on line 44
+[23-Jan-2019 19:14:18 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/demolapa/pps.demolapakcode.net/guru/g-control/action.php on line 16
+[04-Apr-2019 23:10:31 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/demolapa/pps.demolapakcode.net/guru/g-control/action.php on line 31
+[04-Apr-2019 23:10:36 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/demolapa/pps.demolapakcode.net/guru/g-control/action.php on line 31
+[04-Apr-2019 23:10:39 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/demolapa/pps.demolapakcode.net/guru/g-control/action.php on line 31
